@@ -1,12 +1,13 @@
 # bel
 
+Contains paradigms for Belarusian language.
 
-Belarusian
+File bel.txt.xz: words without stress marks.
 
+File bel_voc.txt.xz: the same words with stress marks.
 
+Source: https://github.com/Belarus/GrammarDB
 
-Source: Wikipedia
+License: https://creativecommons.org/licenses/by-sa/4.0/
 
-
-
-License: https://creativecommons.org/licenses/by-sa/3.0/
+Statistics: 162112 lemmas, 2427424 inflectional forms
